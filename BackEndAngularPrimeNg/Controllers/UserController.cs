@@ -40,5 +40,14 @@ namespace BackEndAngularPrimeNg.Controllers
                 return new JsonResult(business.GetAll());
             }
         }
+        [HttpDelete("{id}")]
+        public IActionResult delete(int id) {
+            using (var business = new UserBusiness(Configuration))
+            {
+                business.Delete(id);
+            }
+            return new OkResult();
+        }
+
     }
 }
