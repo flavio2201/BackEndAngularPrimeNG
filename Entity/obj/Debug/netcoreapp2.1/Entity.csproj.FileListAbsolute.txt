@@ -1,0 +1,17 @@
+C:\GIT\BackEnd_angularPrimeNG\Entity\bin\Debug\netcoreapp2.1\Entity.deps.json
+C:\GIT\BackEnd_angularPrimeNG\Entity\bin\Debug\netcoreapp2.1\Entity.dll
+C:\GIT\BackEnd_angularPrimeNG\Entity\bin\Debug\netcoreapp2.1\Entity.pdb
+C:\GIT\BackEnd_angularPrimeNG\Entity\obj\Debug\netcoreapp2.1\Entity.csprojAssemblyReference.cache
+C:\GIT\BackEnd_angularPrimeNG\Entity\obj\Debug\netcoreapp2.1\Entity.csproj.CoreCompileInputs.cache
+C:\GIT\BackEnd_angularPrimeNG\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfoInputs.cache
+C:\GIT\BackEnd_angularPrimeNG\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfo.cs
+C:\GIT\BackEnd_angularPrimeNG\Entity\obj\Debug\netcoreapp2.1\Entity.dll
+C:\GIT\BackEnd_angularPrimeNG\Entity\obj\Debug\netcoreapp2.1\Entity.pdb
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\bin\Debug\netcoreapp2.1\Entity.deps.json
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\bin\Debug\netcoreapp2.1\Entity.dll
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\bin\Debug\netcoreapp2.1\Entity.pdb
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\obj\Debug\netcoreapp2.1\Entity.csproj.CoreCompileInputs.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfoInputs.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\obj\Debug\netcoreapp2.1\Entity.AssemblyInfo.cs
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\obj\Debug\netcoreapp2.1\Entity.dll
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\Entity\obj\Debug\netcoreapp2.1\Entity.pdb

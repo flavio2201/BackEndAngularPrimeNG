@@ -1,0 +1,14 @@
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.csprojAssemblyReference.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.csproj.CoreCompileInputs.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.RazorAssemblyInfo.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.RazorAssemblyInfo.cs
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.AssemblyInfoInputs.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.AssemblyInfo.cs
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\bin\Debug\netcoreapp2.1\BackEndAngularPrimeNg.deps.json
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\bin\Debug\netcoreapp2.1\BackEndAngularPrimeNg.runtimeconfig.json
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\bin\Debug\netcoreapp2.1\BackEndAngularPrimeNg.runtimeconfig.dev.json
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\bin\Debug\netcoreapp2.1\BackEndAngularPrimeNg.dll
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\bin\Debug\netcoreapp2.1\BackEndAngularPrimeNg.pdb
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.RazorTargetAssemblyInfo.cache
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.dll
+C:\GIT\baseProject\backEnd\BackEndAngularPrimeNg\BackEndAngularPrimeNg\obj\Debug\netcoreapp2.1\BackEndAngularPrimeNg.pdb
